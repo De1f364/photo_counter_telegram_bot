@@ -12,3 +12,4 @@ The Telegram-based bot that counts objects on photos received.
 
 **Big Ups**
 The project utilizes PyTorch, Python-Telegram-Bot and ImageAI brilliant tools.
+![alt text](http://url/to/img.png)
