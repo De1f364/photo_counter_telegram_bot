@@ -1,6 +1,8 @@
 # photo_counter_telegram_bot
 The Telegram-based bot that counts objects on photos received.
 
+<a href="https://ibb.co/Ns46QnL"><img src="https://i.ibb.co/drh01JQ/2019-06-23-20-07-49.png" alt="2019-06-23-20-07-49" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>фото картинок</a><br />
+
 **TO RUN**
 1. Install Python3
 2. PIP install imageAI and all dependencies form requirements.txt
@@ -12,6 +14,3 @@ The Telegram-based bot that counts objects on photos received.
 
 **Big Ups**
 The project utilizes PyTorch, Python-Telegram-Bot and ImageAI brilliant tools.
-<a href="https://ibb.co/JskR3Ry"><img src="https://i.ibb.co/hm8RYRZ/2019-06-23-20-08-06.png" alt="2019-06-23-20-08-06" border="0"></a>
-<a href="https://ibb.co/Ns46QnL"><img src="https://i.ibb.co/drh01JQ/2019-06-23-20-07-49.png" alt="2019-06-23-20-07-49" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>фото картинок</a><br />
-
