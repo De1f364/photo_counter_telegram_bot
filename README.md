@@ -7,7 +7,7 @@ The Telegram-based bot that counts objects on photos received.
 1. Install Python3
 2. PIP install imageAI and all dependencies form requirements.txt
 `pip install -r requirements.txt`
-3. Put ResNet model at the root (e.g. "<a href="https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_weights_tf_dim_ordering_tf_kernels.h5"><resnet50_coco_best_v2.0.1"</a>)
+3. Put ResNet model at the root (e.g. "<a href="https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_weights_tf_dim_ordering_tf_kernels.h5">resnet50_coco_best_v2.0.1"</a>)
 4. Set your bot's API token to BOT_API_TOKEN environment variable
 `export BOT_API_TOKEN=your_token`
 5. Run main
