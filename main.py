@@ -1,9 +1,6 @@
 #!/usr/bin/env
-# By ch3rrydrunk <@ch3rrydrunk>
 # Built with grace on python-telegram-bot
 import logging as log
-import os
-
 from telegram import *
 from telegram.ext import *
 from telegram.ext import CommandHandler as CMH 
